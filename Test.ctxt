@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Test
-comment0.text=\n\ This\ class\ has\ a\ main\ method\ to\ test\ the\ program.\ It\ will\ create\ and\n\ start\ each\ thread,\ and\ then\ go\ to\ sleep\ for\ 20000\ miliseconds\ while\ the\n\ other\ threads\ are\ running.\ Finally,\ it\ will\ call\ System.exit(0)\ to\ stop\n\ all\ threads.\n\n\ @author\ Susanne\ Christensen\n\ @version\ 30/04/2018\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
