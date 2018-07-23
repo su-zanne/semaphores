@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=MyThread
+comment0.text=\n\ Abstract\ superclass\ class,\ which\ stores\ and\ creates\ static\ semaphores\n\ that\ are\ shared\ for\ all\ subclasses.\n\n\ @author\ Susanne\ Christensen\n\ @version\ 30/04/2018\n
+numComments=1

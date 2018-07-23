@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ThreadX
+comment0.text=\n\ This\ is\ a\ subclass\ of\ the\ Thread\ class.\ It\ is\ designed\ to\ repeatedly\ \n\ print\ the\ letter\ "X".\n\n\ @author\ Susanne\ Christensen\n\ @version\ 30/04/2018\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\n\ Overrides\ the\ run\ method\ of\ the\ Thread\ superclass.\ \n
+numComments=2
